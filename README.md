@@ -1,6 +1,6 @@
 # Information
 
-This is my first app multiplication table with node
+This is my first app multiplication table made with node
 
 ```
 Options:
