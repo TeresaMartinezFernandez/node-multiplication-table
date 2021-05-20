@@ -1,6 +1,6 @@
 # Information
 
-This is my first app multiplication table made with node
+This is my first app multiplication table made with node. Remember to do npm install to get node-modules folder.
 
 ```
 Options:
